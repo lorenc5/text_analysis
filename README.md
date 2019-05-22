@@ -10,4 +10,4 @@ This course includes the following overview:
 1) Basic text (string/character) manipulation (cgu1.R)
 2) Basic webscraping using rvest (cgu2.R, cgu3.R)
 3) Semi-automated text analysis (dictionary approaches) (cgu4.R, cgu_functions.R)
-4) Automated text analysis (topic modeling)
+4) Automated text analysis (topic modeling) (cgu5.R, mj_nyt.Rdata)
