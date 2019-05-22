@@ -1,5 +1,6 @@
 #########################
 # Loren Collingwood     #
+# UC Riverside          #
 # CGU Text Presentation #
 # Text Manipulation     #
 # Date: 5/22/2019       #
