@@ -2,7 +2,7 @@
 # Loren Collingwood     #
 # CGU Text Presentation #
 # Text Manipulation     #
-# Date: 5/20/2019       #
+# Date: 5/22/2019       #
 #########################
 
 library(stringr)
