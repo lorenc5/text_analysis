@@ -22,7 +22,7 @@ check.packages <- function(pkg){
 # Check to see if packages are installed, and then load them
 packages<-c("rvest","stringr","striprtf", "gsubfn", "tidyverse","readxl", "quanteda", "descr",
             "ggplot2", "readxl","writexl", "topicmodels", "devtools", "lubridate", "svMisc",
-            "data.table")
+            "data.table", "tm")
 
 check.packages(packages)
 
